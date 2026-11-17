@@ -6,9 +6,26 @@ All notable changes to *Driftlight*, newest first.
 
 | Version | Date | Status | Summary |
 |---|---|---|---|
+| v0.1.1 | 2026-11-17 | Alpha | Pulse: click the station to speed up every probe. Finds: wrecks and anomalies with a choice of rewards |
 | v0.1.0 | 2026-11-17 | Alpha | The first playable version: probes that explore on their own, upgrades, comets, pixel art and sound, for Windows and Mac |
 | v0.0.2 to v0.0.9 | 2026-11-16 to 2026-11-17 | Pre-alpha | Built in private on the way to the first playable version |
 | v0.0.1 | 2026-11-16 | Pre-alpha | Project set up, nothing to play yet |
+
+---
+
+## v0.1.1 · 2026-11-17 · Alpha
+
+Two more ways to lend a hand. As always, both are optional: the game keeps going without you.
+
+### Highlights
+
+- **Pulse:** click the station and every probe flies twice as fast for 10 seconds. A ring of dots around the station shows it: gold while it runs, filling up while it recharges for a minute, and fully lit when it's ready again.
+- **Finds:** every few minutes a scan turns up a wreck or an anomaly, and a small panel offers two rewards. Take its light now, or get double light from every scan for a minute. A bar shows the time left to pick; after 20 seconds the game takes the light for you.
+
+### Changes
+
+- While double light lasts, a gold counter under your light shows the seconds left.
+- Two new sounds, one for a Pulse and one for a find.
 
 ---
 

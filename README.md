@@ -40,6 +40,8 @@ The game plays itself. Everything below is optional.
 | Nothing | Probes pick a planet, scan it and bring its light home, over and over |
 | Click a planet | It gets gold brackets: the next free probe goes there first and scans it twice as fast |
 | Click a comet | You catch it for a burst of light. One flies past every minute or two |
+| Click the station | **Pulse**: every probe flies twice as fast for 10 seconds. The ring of dots around the station shows it: gold while it runs, filling up while it recharges for a minute, and fully lit when it's ready again |
+| Pick a find | Every few minutes a scan turns up a wreck or an anomaly. Take its light now, or double the light from every scan for a minute. If you don't pick within 20 seconds, the game takes the light for you |
 | Click an upgrade | **Fleet** launches one more probe, **Engine** makes probes faster, **Scanner** brings more light from every scan |
 | Drag an empty spot | Moves the window |
 | Click the three bars | Opens the menu: Settings, Mute and Quit |
@@ -49,9 +51,9 @@ and the volume.
 
 ## More screenshots
 
-| Menu | Settings |
-|---|---|
-| <img src="docs/screenshots/menu.png" width="300" alt="The menu with Settings, Mute and Quit"> | <img src="docs/screenshots/settings.png" width="300" alt="The settings panel with window size and volume"> |
+| A find | Menu | Settings |
+|---|---|---|
+| <img src="docs/screenshots/find.png" width="260" alt="A wreck found, offering Salvage for 404 light or Rebuild for double light"> | <img src="docs/screenshots/menu.png" width="260" alt="The menu with Settings, Mute and Quit"> | <img src="docs/screenshots/settings.png" width="260" alt="The settings panel with window size and volume"> |
 
 ## Versions
 
