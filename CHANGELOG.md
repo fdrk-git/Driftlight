@@ -6,8 +6,27 @@ All notable changes to *Driftlight*, newest first.
 
 | Version | Date | Status | Summary |
 |---|---|---|---|
+| v0.0.4 | 2026-11-26 | Pre-alpha | A second planet, the lava world Cinderrift, with its own crops and animals, and a Planets button to travel between planets |
 | v0.0.3 | 2026-11-26 | Pre-alpha | A new look: one pixel size for every picture, sharp pixels on screen, and a rebuilt helper drone with five moods |
 | v0.0.1 | 2026-11-25 | Pre-alpha | The first version: a farm on a faraway planet, with a helper drone, a corner view and a full-screen view, for Windows and Mac |
+
+---
+
+## v0.0.4 · 2026-11-26 · Pre-alpha
+
+A second planet.
+
+### Highlights
+
+- **Cinderrift:** a volcanic world with a dark red sky and smoking volcanoes. Three new crops (Emberbulb, Cinderthistle, Obsidian Lotus) and two new animals (Slagback, Embermoth) pay a lot more than Mossrill's, and have their own goods and props.
+- **Planets:** the full view has a **Planets** button at the top. Settle Cinderrift once for 1500 light, then click a planet to travel there. Each planet has its own field, pen and helper drone, and the light is shared.
+- **All planets keep running:** the planet you left keeps growing and its drone keeps working. The corner window shows the planet you looked at last.
+- **Old saves carry over:** a save from an earlier version loads as Mossrill.
+
+### Good to know
+
+- All the Cinderrift numbers are first guesses.
+- The Windows build has not been tried on a real Windows computer yet.
 
 ---
 

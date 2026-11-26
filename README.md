@@ -54,6 +54,7 @@ The farm plays itself. Everything below is optional.
 | Click a ripe crop | You harvest it at once, for the full value. It replants itself |
 | Click the bubble above an animal | You collect its goods at once, for the full value |
 | Click the open button, top right | The farm opens up to the whole screen, with a shop on the right. Press **Esc** to go back to the corner |
+| In the full view, click the planet's name, top right | The **Planets** panel: settle a new planet once for its price in light, or travel to one you have. Each planet has its own field, pen and drone, and all of them keep running |
 | In the full view | Pick a seed to plant, unlock new seeds, buy plots for the field, animals for the pen, and a better drone. The gold **+** in the field is the next plot |
 | Drag an empty spot in the corner | Moves the window |
 | Close the game | The farm keeps growing for up to 8 hours. When you open the game again, a "Welcome back" panel says how much light it brought |
@@ -73,6 +74,23 @@ animation if the full view should just fade in.
 |---|---|---|
 | Puffball, a floating fluffy creature | 50 seconds | 10 light |
 | Mossback, a mossy shelled walker | 120 seconds | 30 light |
+
+## The second planet: Cinderrift
+
+A lava world, settled once for 1500 light from the Planets panel in the full view.
+
+<img src="docs/screenshots/cinderrift-view.png" alt="Cinderrift: a dark red sky with volcanoes, black ash ground, and the farm with lava crops and animals" width="450">
+
+| Crop | Grows in | Worth |
+|---|---|---|
+| Emberbulb, a glowing orange bulb | 60 seconds | 30 light |
+| Cinderthistle, a charcoal thistle with a flame bloom | 130 seconds | 85 light |
+| Obsidian Lotus, a glossy black lotus with a magma core | 270 seconds | 220 light |
+
+| Animal | Makes goods every | Worth |
+|---|---|---|
+| Embermoth, a floating moth made of embers | 70 seconds | 40 light |
+| Slagback, a rocky walker with a lava-cracked shell | 140 seconds | 100 light |
 
 ## Versions
 
