@@ -6,6 +6,21 @@ screen whenever you want to tend it yourself.
 
 **Developed by FDRK Group.** Driftlight is in early alpha: new versions come out often, and things will change.
 
+## What it looks like
+
+The full view, with the shop on the right:
+
+![The full view: the farm on Mossrill with the shop open](docs/screenshots/full-view.png)
+
+The corner view, the small window that sits on your screen and plays itself:
+
+<img src="docs/screenshots/corner-view.png" alt="The corner view: the field, the pen and the helper drone" width="450">
+
+The helper drone has moods: happy when it is idle, squinting while it works, a blink now and then, wow when you upgrade
+it, and hearts after it finishes a job.
+
+![The five faces of the helper drone: happy, working, blink, wow and love](docs/screenshots/drone-moods.png)
+
 ## Download and play
 
 Go to the [Releases](../../releases) page and download the newest zip for your computer.
