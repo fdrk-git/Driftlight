@@ -2,6 +2,8 @@
 
 All notable changes to *Driftlight*, newest first.
 
+**Windows only:** on 2026-11-28 the Mac downloads were taken off every release, and Driftlight is for Windows for now.
+
 **Version numbers** follow the form `v0.0.0`. Each part runs from 0 to 9: after `v0.0.9` comes `v0.1.0`, and after `v0.9.9` comes `v1.0.0`.
 
 | Version | Date | Status | Summary |
@@ -30,7 +32,7 @@ A farm that grows, and blends in.
 - Saves from earlier versions carry over, with the small pen the game started with.
 - This is still an early test version, and the numbers (what a bigger pen costs, how many animals it holds) are first guesses, so tell us how the pace feels.
 - The Windows build has not been tried on a real Windows computer yet.
-- The builds aren't signed yet, so Windows and macOS warn the first time you open the game. The [README](https://github.com/fdrk-git/Driftlight#download-and-play) says how to get past that.
+- The builds aren't signed yet, so Windows warns the first time you open the game. The [README](https://github.com/fdrk-git/Driftlight#why-does-windows-show-a-warning) explains why and how to get past it.
 
 ---
 
@@ -52,7 +54,7 @@ A cosier farm. (v0.0.2 was a local test version and was never released.)
 - Saves from earlier versions carry over: plots keep their places (old saves put them in rows of four), and the light is kept. If you had settled Cinderrift in v0.0.4, this version keeps Mossrill and your light, but it does not keep the Cinderrift farm.
 - This is still an early test version, and the numbers (how fast crops grow, what things cost) are first guesses.
 - The Windows build has not been tried on a real Windows computer yet.
-- The builds aren't signed yet, so Windows and macOS warn the first time you open the game. The [README](https://github.com/fdrk-git/Driftlight#download-and-play) says how to get past that.
+- The builds aren't signed yet, so Windows warns the first time you open the game. The [README](https://github.com/fdrk-git/Driftlight#why-does-windows-show-a-warning) explains why and how to get past it.
 
 ---
 

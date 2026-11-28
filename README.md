@@ -27,26 +27,31 @@ it, and hearts after it finishes a job.
 
 ## Download and play
 
-Go to the [Releases](../../releases) page and download the newest zip for your computer.
-
-**Windows**
+Driftlight is for **Windows** for now. Go to the [Releases](../../releases) page and download the newest zip.
 
 1. Unzip it anywhere and double-click **Driftlight.exe**.
-2. The game isn't signed by a known publisher yet, so Windows may say it protected your PC: click **More info**, then
+2. Windows may say it protected your PC. That is normal for this game for now, see below: click **More info**, then
    **Run anyway**.
 3. On a very sharp screen the small corner window can look tiny. Open the menu (the three bars), choose **Settings**, and
    pick a bigger **Corner size**.
 
-**Mac**
+**Needs:** Windows 10 or 11, 64-bit.
 
-1. Unzip it and move **Driftlight** into your Applications folder, then open it.
-2. The game isn't signed by a known developer yet, so macOS refuses the first time. Open **System Settings**, go to
-   **Privacy & Security**, scroll down and click **Open Anyway**. On older versions of macOS, right-click the game and
-   choose **Open** instead.
+### Why does Windows show a warning?
 
-Only run builds downloaded from this repository's Releases page.
+The first time, Windows shows a blue screen: "Windows protected your PC", with "Unknown publisher". It does that for every
+program that is not signed with a code-signing certificate and that not many people have run yet. Driftlight is not signed
+yet (the certificates cost money every year), so Windows has never heard of it. It does not mean the game was found to be
+harmful.
 
-**Needs:** Windows 10 or 11, 64-bit, or a Mac with an Intel or Apple chip.
+To be careful:
+
+- Only download Driftlight from this repository's [Releases](../../releases) page.
+- Each release lists a SHA-256 checksum for its zip. In PowerShell, run `Get-FileHash .\Driftlight-v0.0.6-Windows.zip`
+  (with the file name you downloaded) and check that the long code is the same as the one on the release page.
+- If you would rather not run it, close the blue screen: nothing has been started.
+
+There is no Mac version at the moment.
 
 ## How to play
 
