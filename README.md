@@ -16,6 +16,10 @@ The corner view, the small window that sits on your screen and plays itself:
 
 <img src="docs/screenshots/corner-view.png" alt="The corner view: the field, the pen and the helper drone" width="450">
 
+The pen can grow. **Bigger pen** in the shop adds one bay of fence, to the left or down, up to 6 by 6 bays, with room for more animals:
+
+<img src="docs/screenshots/bigger-pen.png" alt="A bigger pen, six bays wide and five deep, with ten animals in it" width="450">
+
 The helper drone has moods: happy when it is idle, squinting while it works, a blink now and then, wow when you upgrade
 it, and hearts after it finishes a job.
 
@@ -54,7 +58,7 @@ The farm plays itself. Everything below is optional.
 | Click a ripe crop | You harvest it at once, for the full value. It replants itself |
 | Click the bubble above an animal | You collect its goods at once, for the full value |
 | Click the open button, top right | The farm opens up to the whole screen, with a shop on the right. Press **Esc** to go back to the corner |
-| In the full view | Pick a seed to plant, unlock new seeds, buy animals for the pen and a better drone. **New plot** lets you click where the plot goes |
+| In the full view | Pick a seed to plant, unlock new seeds, buy animals for the pen, a bigger pen and a better drone. **New plot** lets you click where the plot goes |
 | Scroll, use the arrow keys, or drag with the right mouse button | Moves the view over the land. In the full view, dragging empty ground does it too. In the corner, small arrows at the window's edges do the same |
 | Drag an empty spot in the corner | Moves the window |
 | Close the game | The farm keeps growing for up to 8 hours. When you open the game again, a "Welcome back" panel says how much light it brought |

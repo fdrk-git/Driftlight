@@ -6,10 +6,31 @@ All notable changes to *Driftlight*, newest first.
 
 | Version | Date | Status | Summary |
 |---|---|---|---|
+| v0.0.6 | 2026-11-28 | Pre-alpha | A pen that grows with a new Bigger pen button, and farm ground that fades into the meadow, with plots that connect above and below each other |
 | v0.0.5 | 2026-11-28 | Pre-alpha | A cosier farm: a fairy-light fence, a new bee-bot helper drone, a forest of tree houses and giant mushrooms that glows at night, and plots you place where you want. Cinderrift is out for now |
 | v0.0.4 | 2026-11-26 | Pre-alpha | A second planet, the lava world Cinderrift, with its own crops and animals, and a Planets button to travel between planets |
 | v0.0.3 | 2026-11-26 | Pre-alpha | A new look: one pixel size for every picture, sharp pixels on screen, and a rebuilt helper drone with five moods |
 | v0.0.1 | 2026-11-25 | Pre-alpha | The first version: a farm on a faraway planet, with a helper drone, a corner view and a full-screen view, for Windows and Mac |
+
+---
+
+## v0.0.6 · 2026-11-28 · Pre-alpha
+
+A farm that grows, and blends in.
+
+### Highlights
+
+- **A pen that grows:** the shop has a new **Bigger pen** button. Each one adds a bay of fence, to the left or down (the shorter side first), up to 6 by 6 bays, with a bigger floor and room for more animals: 6, 8, 10, 12 and 14. It costs 240 light, and 1.6 times more each time. If plots are in the way on one side, the pen grows the other way; if both are blocked, the button says there is no room.
+- **Ground that blends in:** the soil round the plots no longer stops at a straight edge. It thins out into the meadow with a ragged edge, crumbs of earth and grass leaning over it. The pen floor is trampled grass and straw that fades into the meadow too.
+- **Plots that connect:** plots above and below each other now sit as close together as plots side by side, so a field reads as one tilled bed. A plot's rim is dark soil instead of an outline.
+- The shop's buttons are a little shorter, so one more fits on small screens.
+
+### Good to know
+
+- Saves from earlier versions carry over, with the small pen the game started with.
+- This is still an early test version, and the numbers (what a bigger pen costs, how many animals it holds) are first guesses, so tell us how the pace feels.
+- The Windows build has not been tried on a real Windows computer yet.
+- The builds aren't signed yet, so Windows and macOS warn the first time you open the game. The [README](https://github.com/fdrk-git/Driftlight#download-and-play) says how to get past that.
 
 ---
 
